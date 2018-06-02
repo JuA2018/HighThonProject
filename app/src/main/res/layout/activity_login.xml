@@ -16,8 +16,8 @@
         android:background="@drawable/mainimage"/>
 
     <EditText
-        android:hint="ID"
-        android:textSize="20dp"
+        android:hint="아이디"
+        android:textSize="18dp"
         android:paddingLeft="8dp"
         android:background="@drawable/buttondesign2"
         android:layout_width="match_parent"
@@ -27,8 +27,8 @@
         android:layout_marginRight="40dp"/>
 
     <EditText
-        android:hint="Password"
-        android:textSize="20dp"
+        android:hint="비밀번호"
+        android:textSize="18dp"
         android:paddingLeft="8dp"
         android:background="@drawable/buttondesign2"
         android:layout_width="match_parent"
